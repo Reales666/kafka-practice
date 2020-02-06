@@ -5,5 +5,5 @@ package org.reales
  *
  */
 object App extends Application {
-  println( "Hello World!" )
+  println( "goodbye World!" )
 }
