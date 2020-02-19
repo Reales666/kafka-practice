@@ -4,7 +4,9 @@ package org.reales
  * Hello world!
  *
  */
-object App extends Application
+object App
 {
-	println( "goodbye World!" )
+	def main(strings: Array[String]): Unit = {
+		System.out.println( "goodbye World!" )
+	}
 }
